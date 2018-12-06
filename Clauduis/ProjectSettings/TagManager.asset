@@ -13,11 +13,11 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Background
+  - Foreground
+  - Player
+  - Enemy
+  - Ladder
   - 
   - 
   - 
@@ -40,4 +40,16 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4053735715
+    locked: 0
+  - name: Foreground
+    uniqueID: 3737494217
+    locked: 0
+  - name: Ladder
+    uniqueID: 952238761
+    locked: 0
+  - name: Chracter
+    uniqueID: 1404150981
     locked: 0

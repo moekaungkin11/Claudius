@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 693de1e1adbb61749a86ce21030c20a4, type: 3}
+  m_Name: Waypoint 1
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 1869473889369784, guid: ed4ac2640b02b3b4fb163f0a954480c9,
+    type: 2}
+  pathPrefab: {fileID: 1141302784663846, guid: 797e5d2dbd82b514d92c9450dc0b8b5d, type: 2}
+  Speed: 0.1
+  numEnemy: 1
+  timeBetweenSpawn: 0.2
